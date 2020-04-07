@@ -14,3 +14,12 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 Happy coding!
 # pikapikachu
 # hello_app
+
+# Ruby on Rails Tutorial
+
+## "hello, world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](https://railstutorial.jp/)
+by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
+
